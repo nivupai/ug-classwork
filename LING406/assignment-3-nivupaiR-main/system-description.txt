@@ -1,0 +1,19 @@
+# Outline the system structure (including necessary files and directories for running the code)
+
+# System Structure
+`src/`: directory containing source code files and data files
+
+`Code/`: directory containing Jupyter notebook files
+* `extract_features_from_xml.ipynb`: processes XML data to extract features and labels for POS tagging
+* `baseline.ipynb`: implements the baseline POS tagging model using bag-of-words representation
+* `improved.ipynb`: enhances the baseline model using advanced feature engineering techniques
+
+`Data/`: directory containing XML data files for POS tagging
+* `train.xml`: XML file with training data
+* `validation.xml`: XML file with validation data
+* `test-1-1.xml`: XML file with test data
+
+`README.md`: contains instructions for running the notebooks and system information
+
+# System Description
+The system for the LING 406 assignment on part-of-speech (POS) tagging is organized to facilitate the development, training, and evaluation of machine learning models for natural language processing. Central to this system are the Jupyter notebooks housed in the `Code/` directory, where `extract_features_from_xml.ipynb` begins the process by parsing the provided XML data files located in the `Data/` directory, extracting necessary features for POS tagging. The `baseline.ipynb` notebook implements a baseline model using these features, while `improved.ipynb` applies advanced preprocessing and feature engineering to enhance the model's performance.

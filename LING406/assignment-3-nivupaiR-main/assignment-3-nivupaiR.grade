@@ -1,0 +1,31 @@
+__assignment-3-nivupaiR__LING406-HOMEWORK-ASSIGNMENT-03-RUBRIC__
+
+Baseline System:				10/10
+	Feature representation			6/6
+	Code:							4/4
+		Notes (if any):
+
+Improved System:				10/10
+	Preprocessing/Featurization:	2/2
+	Comparison to Baseline:			4/4
+	Code:							4/4
+		Notes (if any):
+
+Feature Engineering:			10/10
+	Leave One Out / Add One In		2/2
+	Comparison of Systems:			4/4
+	Code:							4/4
+		Notes (if any):
+
+Report:							20/20
+	1) Algorithm Performance:		5/5
+	2) Attribute Contribution:		5/5
+	3) Goodness of Fit:				5/5
+	4) Future Work Speculation		5/5
+		Notes (if any):
+
+
+
+Total:	50/50
+
+__TA-COMMENTS-IF-ANY__
