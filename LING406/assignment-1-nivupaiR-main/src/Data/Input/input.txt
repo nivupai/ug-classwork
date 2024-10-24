@@ -1,0 +1,31 @@
+# Put your named entity test cases in this file.
+
+
+He will arrive on January 5th, 2015. 
+He will arrive on Jan 5th, 2015. 
+He will arrive on Jan 5th. 
+He will arrive on january 5th, 2015. 
+He will arrive on jan 5th, 2015. 
+He will arrive on monday. 
+He will arrive on January 35th, 2015. 
+King was born on January 15, 2029 in Atlanta, Georgia. 
+It was a Tuesday afternoon. 
+Sam was born in May. 
+He was born on the 13th of May. 
+May 13, 2007 was a Sunday. 
+We fly to Denver on Monday. 
+What happened then was an introduction to the events of September 11, 2001. 
+National Boyfriend Day (sometimes referred to as National Boyfriend’s Day) on October 3rd recognizes the sweetheart in your life. 
+Her grandmother was born in 1935. 
+November 29th was on a Monday, in the 49th week of 1948. 
+How fortunate that the world did not end on Friday, December 21st, 2012! 
+Today is the 1st of January, 2020. 
+It should fall between the two calendar dates, 1/1/2020 and 2/1/2020. 
+What happened on May 32nd? 
+What is celebrated every year on the 5th of May? 
+Do we work on May 5th? June is my favorite time of the year! 
+June is my best friend. 
+We will revisit this after Labor Day. 
+I will celebrate Memorial day on Monday.
+It was at Monday, 2pm.
+It is at 4pm.

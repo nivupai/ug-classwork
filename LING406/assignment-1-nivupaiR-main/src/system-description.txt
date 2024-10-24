@@ -1,0 +1,15 @@
+# Outline the system structure (including necessary files and directories for running the code)
+
+# System Structure
+code/: directory containing main python script for temporal extraction (assignment-1.ipynb)
+data/: stores input and output data
+data/input/: contains input file (input.txt) including sentences with data-related texts
+data/output/: contains output file (output.txt) where extracted temporal entities are stored
+README.md: contains instructions on running the code and information on this assignemnt's implementation
+
+# System Description
+Regular expression was used to capture day, month, and year information. This regex accounts for variations in the representation of days (st, nd, rd, th) and supports 
+month names and abbreviations. Regex patterns were designed to identify day of the week formats, both with and without the explicit mention of "the." 
+Specific regex patterns were crafted to identify common holidays, specific times of the day, standalone years and standalone month names (abbreviated and normal).
+The regular expressions are designed to be case-insensitive to account for variations in capitalization. Dates extracted from the text are stored in a Python list (`dates`). 
+This list is later used to write the identified dates to the output file. The system uses the re module in Python for regular expression matching.
