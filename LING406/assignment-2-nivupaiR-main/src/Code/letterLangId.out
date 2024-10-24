@@ -1,0 +1,156 @@
+0.9833333333333333
+0.9833333333333333
+0.9833333333333333
+0.9833333333333333
+0.9833333333333333
+0.9833333333333333
+0.9833333333333333
+0      1
+1      1
+2      1
+3      1
+4      1
+      ..
+295    1
+296    1
+297    1
+298    1
+299    1
+Name: match, Length: 300, dtype: int64
+     model   answer  match
+0  Italian  Italian      1
+1  English  English      1
+2  Italian  Italian      1
+3   French   French      1
+4   French   French      1
+0
+Accuracy: 0.9833333333333333
+
+DataFrame with 'match' column:
+       model   answer  match
+0    Italian  Italian      1
+1    English  English      1
+2    Italian  Italian      1
+3     French   French      1
+4     French   French      1
+..       ...      ...    ...
+295   French   French      1
+296  Italian  Italian      1
+297  Italian  Italian      1
+298   French   French      1
+299  English  English      1
+
+[300 rows x 3 columns]
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+Accuracy: 0.6666666666666666
+
+Accuracy: 0.6666666666666666
+
+Accuracy: 0.6666666666666666
+F1-score: 0.7292920063848033
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+       model   answer  match
+0    Italian  Italian      1
+1    English  English      1
+2    Italian  Italian      1
+3     French   French      1
+4     French   French      1
+..       ...      ...    ...
+295   French   French      1
+296  Italian  Italian      1
+297  Italian  Italian      1
+298   French   French      1
+299  English  English      1
+
+[300 rows x 3 columns]
+
+DataFrame with 'match' column:
+       model   answer  match
+0    Italian  Italian      1
+1    English  English      1
+2    Italian  Italian      1
+3     French   French      1
+4     French   French      1
+..       ...      ...    ...
+295   French   French      1
+296  Italian  Italian      1
+297  Italian  Italian      1
+298   French   French      1
+299  English  English      1
+
+[300 rows x 3 columns]
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'match' column:
+
+DataFrame with 'similarity_score' column:
+
+DataFrame with 'similarity_score' column:
+
+DataFrame with 'similarity_score' column:
+
+DataFrame with 'similarity_score' column:
+
+DataFrame with 'similarity_score' column:
+
+DataFrame with 'similarity_score' column:
+
+DataFrame with 'similarity_score' column:
